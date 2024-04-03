@@ -4,13 +4,17 @@
   "description": "Extension for quick HTML markup creation in Vue for CSS modules.",
   "publisher": "nurbek0298",
   "version": "0.0.1",
-  "icon": "docs/logo.png",
+  "icon": "./docs/logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurbek0298/vue-css-modules"
+  },
   "keywords": [
     "vue",
     "css modules",
