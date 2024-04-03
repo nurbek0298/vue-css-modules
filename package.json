@@ -1,6 +1,6 @@
 {
   "name": "vue-css-modules",
-  "displayName": "vue-css-module-snippets",
+  "displayName": "Vue CSS Modules",
   "description": "Extension for quick HTML markup creation in Vue for CSS modules.",
   "publisher": "nurbek0298",
   "version": "0.0.1",
@@ -9,7 +9,7 @@
     "vscode": "^1.87.0"
   },
   "categories": [
-    "Snippets"
+    "Programming Languages"
   ],
   "repository": {
     "type": "git",
