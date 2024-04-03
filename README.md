@@ -29,9 +29,3 @@ $list__item
 ```html
 <div :class="$style['list__item']"></div>
 ```
-
-## Release Notes
-
-### 1.0.0
-
-Initial release
